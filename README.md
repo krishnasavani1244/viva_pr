@@ -10,6 +10,9 @@ A new Flutter project.
 <img align="left" src="https://github.com/krishnasavani1244/viva_pr/assets/131374449/39327912-2e35-415a-9661-79aab3acc41c" width="220px">
 <img  src="https://github.com/krishnasavani1244/viva_pr/assets/131374449/1720d7f7-005a-44e1-9b37-0b4f7b960cba" width="220px">
 
+<img align="left" src="https://github.com/krishnasavani1244/viva_pr/assets/131374449/b86c033c-5c44-49dc-99dc-c0cc50aade95" width="220px">
+<img align="left" src="https://github.com/krishnasavani1244/viva_pr/assets/131374449/92f0c479-1312-4ce5-ba87-6724872c1ce6" width="220px">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
